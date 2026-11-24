@@ -1,0 +1,3 @@
+Python is a popular language.
+It is easy to learn.
+Many people use it daily.
